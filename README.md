@@ -42,9 +42,8 @@ The Root Mean Square Error (RMSE) of the model on the test set is **3.99**. Belo
 
 ## **Installation**
 
-bash ```
+```bash
 git clone https://github.com/nicole-baltodano/nyc-taxi-fare-prediction.git
 cd nyc-taxi-fare-prediction
 pip install -r requirements.txt
 python main.py
-```
